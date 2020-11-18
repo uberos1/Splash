@@ -51,5 +51,5 @@ window.addEventListener("appinstalled", logAppInstalled);
  */
 function logAppInstalled(evt) {
   // CODELAB: Add code to log the event
-  console.log("Splash Game was installed.", evt);
+  console.log("Shooter Game was installed.", evt);
 }
