@@ -1,6 +1,6 @@
 {
-  "name": "Splash page",
-  "short_name": "Splash",
+  "name": "Shooter game",
+  "short_name": "Shooter",
   "icons": [
     {
       "src": "assets/icons/splash128.png",
